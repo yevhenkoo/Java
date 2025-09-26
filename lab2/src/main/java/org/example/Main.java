@@ -20,7 +20,7 @@ public class Main {
                 I always recommend starting with learning Java.""";
         StringBuffer textBuffer = new StringBuffer(inputText);
 
-        // 1. Split text into sentences
+        //Split text into sentences
         List<StringBuffer> sentences = getSentences(textBuffer);
 
         if (sentences.isEmpty()) {

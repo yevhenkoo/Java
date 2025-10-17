@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"org.example","l":"Album"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example","l":"CompositionNotFoundException"},{"p":"org.example","l":"Instrumental"},{"p":"org.example","l":"Main"},{"p":"org.example","l":"MusicalComposition"},{"p":"org.example","l":"Song"},{"p":"org.example","l":"Symphony"}];updateSearchResults();
